@@ -5,6 +5,11 @@ Bonjour, ceci est un outils de géolocalisation sur Linux / Debian / Ubuntu
 Pour lancer l'outils entrer cette commande sur votre ssh / cmd : 
 
     git clone https://github.com/Galeduc/Osint-Tracker-IP
+    
+    cd Osint-Tracker-IP
+    
+    bash ip.sh
+
 
 Screen de l'outils :
 
