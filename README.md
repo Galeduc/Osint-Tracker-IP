@@ -4,7 +4,7 @@ Bonjour, ceci est un outils de géolocalisation sur Linux / Debian / Ubuntu
 
 Pour lancer l'outils entrer cette commande sur votre ssh / cmd : 
 
-     wget https://raw.githubusercontent.com/KasRoudra/IP-Tracker/main/ip.sh && bash ip.sh
+     wget https://raw.githubusercontent.com/Galeduc/Osint-Tracker-IP/main/ip.sh && bash ip.sh
 
 Screen de l'outils :
 
