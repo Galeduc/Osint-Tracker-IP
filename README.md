@@ -2,7 +2,9 @@
 
 Bonjour, ceci est un outils de géolocalisation sur Linux / Debian / Ubuntu
 
-Pour lancer l'outils entrer cette commande sur votre ssh / cmd : wget https://raw.githubusercontent.com/KasRoudra/IP-Tracker/main/ip.sh && bash ip.sh
+Pour lancer l'outils entrer cette commande sur votre ssh / cmd : 
+
+     wget https://raw.githubusercontent.com/KasRoudra/IP-Tracker/main/ip.sh && bash ip.sh
 
 Screen de l'outils :
 
@@ -13,4 +15,3 @@ Screen de l'outils :
 ![2022-07-09_23h16_45](https://user-images.githubusercontent.com/81381757/178122930-d36c1cd6-b900-466d-b20c-643cfbbb38e6.png)
 
 Crédit à KasRoudra
-
